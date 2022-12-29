@@ -1,6 +1,7 @@
 import ReportPDF
 import ReportTable
 
+someStr = 'hello'
 
 def main():
     """Выбор формирования отчета: в виде pdf или таблицы PrettyTable."""
